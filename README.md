@@ -5,6 +5,7 @@
 
 ##Implementation of Totally ordered Multicast using Lamport’s Algorithm
 *	Demonstration of Totally ordered Multicast using Lamport’s algorithm to display timing mechanism in Distributed system was designed in Java by me. This was quite challenging as all the acknowledgements were also needed to be considered in addition to all the multicast being multithreaded.
+
 ##Implementation of Distributed Locking Mechanism
 *	The project was developed to be a standing proof of concept for Distributed Locking Mechanism persistence. I designed a decentralised algorithm to display Locking as starvation can be avoided. In order to give full justice to the request maker nodes, the request queue was formed so the nodes can be allotted the resource on basis of request arrival.
 
